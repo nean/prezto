@@ -34,7 +34,9 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'spectrum' \
   'utility' \
+  'archive' \
   'ssh' \
+  'gpg' \
   'completion' \
   'prompt'
 
